@@ -1,4 +1,4 @@
-</h2 align="center">weathr app || yossef</h2>
+<h2 align="center">weathr app || yossef</h2>
 
 
 
@@ -29,5 +29,8 @@
 🔒 Finally, the code closes the HTTP response connection.
 
 👍 The app provides a simple and interactive way for users to check the weather conditions of any city in the world.
+
+---
+
 
 ### my Email : yossefsabry66@gmail.com
